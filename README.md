@@ -5,7 +5,7 @@ Aprendendo a transformar dados brutos em insights valiosos. Atualmente, foco meu
 
 ---
 
-## 🐍 GitHub Snake
+## 🐍 GitHub Tach Snake
 <p align="center">
   <img src="https://github.com/nicolascarrio-cmyk/nicolascarrio-cmyk/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
