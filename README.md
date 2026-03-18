@@ -29,9 +29,12 @@ Aprendendo a transformar dados brutos em insights valiosos. Atualmente, foco meu
 ---
 
 ## 📈 Estatísticas do GitHub
-![Seu Nome's GitHub stats](https://github-readme-stats.vercel.app/api?username=[nicolascarrio-cmyk]&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[nicolascarrio-cmyk]&layout=compact&theme=radical)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=[nicolascarrio-cmyk]&show_icons=true&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[nicolascarrio-cmyk]&layout=compact&theme=radical" height="150" />
+</p>
 
+---
 ---
 
 ## 📫 Vamos nos conectar?
