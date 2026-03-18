@@ -1,16 +1,36 @@
-## Hi there 👋
+# Olá, eu sou o Nicolas Carrio! 👋
 
-<!--
-**nicolascarrio-cmyk/nicolascarrio-cmyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 Aspirante a Analista / Engenheiro de Dados
+Aprendendo a transformar dados brutos em insights valiosos. Atualmente, foco meus estudos em estruturação de ambientes Linux, lógica de programação e manipulação de dados.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Minha Stack & Ferramentas
+
+### 💻 Desenvolvimento e Lógica
+* **VS Code:** Meu editor principal para produtividade e scripts.
+* **JavaScript:** Linguagem base para automações e manipulação de estruturas JSON.
+* **Flowgorithm:** Onde transformo problemas complexos em fluxogramas claros antes de codar.
+
+### 🐧 Infraestrutura e Ambientes
+* **Ubuntu (Linux):** Meu sistema operacional para rodar scripts e gerenciar servidores.
+* **VirtualBox:** Uso para criar laboratórios isolados e testar diferentes distribuições e bancos de dados.
+
+---
+
+## 🛠️ No que estou trabalhando agora?
+- 🔭 Estudando estruturas de dados com **JavaScript**.
+- 🛠️ Configurando pipelines de automação no **Ubuntu**.
+- 📐 Refinando a lógica de algoritmos complexos via **Flowgorithm**.
+
+---
+
+## 📈 Estatísticas do GitHub
+![Seu Nome's GitHub stats](https://github-readme-stats.vercel.app/api?username=[nicolascarrio-cmyk]&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[nicolascarrio-cmyk]&layout=compact&theme=radical)
+
+---
+
+## 📫 Vamos nos conectar?
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/[nicolas-c-9938813b0])
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carrio978@gmail.com)
