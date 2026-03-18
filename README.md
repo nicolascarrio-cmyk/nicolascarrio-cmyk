@@ -22,6 +22,9 @@ Aprendendo a transformar dados brutos em insights valiosos. Atualmente, foco meu
 - 🔭 Estudando estruturas de dados com **JavaScript**.
 - 🛠️ Configurando pipelines de automação no **Ubuntu**.
 - 📐 Refinando a lógica de algoritmos complexos via **Flowgorithm**.
+- ![Virtual Machine](https://img.shields.io/badge/VM-Virtualization-orange?style=flat-square&logo=linux)
+![Frontend](https://img.shields.io/badge/Frontend-Web-blue?style=flat-square)
+![Environment Setup](https://img.shields.io/badge/Setup-Infrastructure-brightgreen?style=flat-square)
 
 ---
 
