@@ -34,8 +34,7 @@ Aprendendo a transformar dados brutos em insights valiosos. Atualmente, foco meu
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[nicolascarrio-cmyk]&layout=compact&theme=radical" height="150" />
 </p>
 
-🐍 GitHub Snake
-![Snake animation](https://github.com/[nicolascarrio-cmyk]/[nicolascarrio-cmyk]/blob/output/github-contribution-grid-snake.svg)
+
 
 ## 📫 Vamos nos conectar?
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/[nicolas-c-9938813b0])
